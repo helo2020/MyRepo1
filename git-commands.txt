@@ -1,0 +1,29 @@
+1. git windows install
+2. git hub account creation
+
+3. Created a new repository MyRepo1 with GUI
+
+in your working directory, git init 
+create a new file
+git status shows filename
+
+4. git add filename
+
+5. git config user.email "sridevi.nanduri@ymail.com"
+  git config user.name "helo2020"
+
+.
+
+6. git commit -m "new file"
+
+git remote add origin git@github.com:"Username_on_github"/"Repository_Name"
+
+Note :- This above command is a single command & Now place your git-hub username (without any quotes) and put your repository name (without any quotes)
+
+6. git remote add origin https://github.com/helo2020/MyRepo1
+ git remote -v
+origin  https://github.com/helo2020/myRepo1 (fetch)
+origin  https://github.com/helo2020/myRepo1 (push)
+
+7. git push origin master
+
